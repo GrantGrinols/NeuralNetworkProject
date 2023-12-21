@@ -9,4 +9,9 @@
  To use this project, simply use:
 pip install -r requirements.txt
 
+## References
+
+Datasets used:
+https://www.kaggle.com/datasets/arshid/iris-flower-dataset
+https://www.kaggle.com/datasets/kukuroo3/body-performance-data
 
